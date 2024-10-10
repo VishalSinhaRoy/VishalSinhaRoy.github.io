@@ -627,7 +627,7 @@ a:focus {
     position: absolute;
     top: 10px; /* Adjust as necessary */
     right: 10px; /* Adjust as necessary */
-    width: 40px; /* Adjust size as necessary */
+    width: 60px; /* Adjust size as necessary */
     height: auto; /* Maintain aspect ratio */
 }
 
